@@ -16,14 +16,14 @@ var config = {
     traffic: {
       key : "AqKBx67sodvYoqfftfmOWCpUFu4Y2UgCZn48rhAfdtccIXnHz5vHxMvtjYLPlU99", // Bing Maps API Key
       mode : "Transit", // Possibilities: Driving / Transit / Walking
-      origin : "Jeongneung", // Start of your trip. Human readable address.
+      origin : "Gongneung", // Start of your trip. Human readable address.
       destination : "Gangnam", // Destination of your trip. Human readable address.
-      name : "국민대 - 한국전자전 COEX", // Name of your destination ex: "work"
+      name : "서울과기대", // Name of your destination ex: "work"
       reload_interval : 5 // Number of minutes the information is refreshed
     },
     geoPosition: {
-       latitude: 37.610294,
-       longitude: 126.99743
+       latitude: 37.63047,
+       longitude: 127.090198
     },
 
     conversation : {
